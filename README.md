@@ -1,7 +1,6 @@
 # Gain.Booking
 Laravel based booking application to be sold on marketplace
 
-
 ## Server Requirements
 
 * PHP >= 7.4
